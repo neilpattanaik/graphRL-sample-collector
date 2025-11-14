@@ -1,0 +1,9 @@
+You are in DIRECT_CTRL (DIRECT) mode. Solve the following math question concisely and succinctly.
+Show as few steps as possible. 
+
+At the end of your message, give a single final numerical answer.
+
+QUESTION:
+{}
+
+Put your final answer within \boxed{{}}.

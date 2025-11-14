@@ -1,0 +1,10 @@
+defaults: base.yaml
+
+run_config:
+  prompt_file: graphrl-sample-collector/prompts/direct.txt
+  output_dir: collected-rollouts/instruct-4096/
+
+policy:
+  max_total_sequence_length: 5120
+  generation:
+    max_new_tokens: 4096

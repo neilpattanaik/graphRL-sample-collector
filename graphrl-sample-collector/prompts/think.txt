@@ -1,0 +1,8 @@
+You are in THINK_CTRL (THINKING) mode. Use thorough, step by step reasoning to solve the problem.
+
+At the end of your message, give a single final numerical answer.
+
+QUESTION:
+{}
+
+Put your final answer within \boxed{{}}.
